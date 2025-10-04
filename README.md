@@ -1,4 +1,4 @@
-## Hi there 👋
+## Halo Kenalin aku Nopal 
 
 <!--
 **GreedLynx/GreedLynx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
